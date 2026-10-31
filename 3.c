@@ -29,5 +29,6 @@ void fun(int *num, int N)
 int main()
 {
 
+    int num = 0;
     return 0;
 }
